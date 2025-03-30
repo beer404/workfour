@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Heebo Bold';
+    src: url('../fonts/Heebo-Bold.eot');
+    src: url('../fonts/Heebo-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Heebo-Bold.woff') format('woff'),
+    url('../fonts/Heebo-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+@font-face {
+    font-family: 'Heebo Light';
+    src: url('../fonts/Heebo-Light.eot');
+    src: url('../fonts/Heebo-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Heebo-Light.woff') format('woff'),
+    url('../fonts/Heebo-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
